@@ -2,7 +2,7 @@
 
 /* Arquivo config.php
 * Não mexa em nada que você não saiba
-* Auto: https://t.me/Davidsdy
+* Auto: https://t.me/DanielMTX
 */
 
 session_start();
@@ -13,7 +13,7 @@ ini_set('display_errors', 1 );
 //configurações
 
 #titulo do site
-define( 'TITLE', 'Configurações conecta4G');
+define( 'TITLE', 'Configurações CLOUD ELITE);
 
 #link do site
 define( 'LINK', 'http://'. $_SERVER['SERVER_NAME']);
